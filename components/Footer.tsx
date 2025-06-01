@@ -9,9 +9,6 @@ const Footer: React.FC = () => {
         <p className="font-body text-md">
           &copy; {currentYear} CSC Advogados. Todos os direitos reservados.
         </p>
-        <p className="font-body text-sm mt-2">
-          Este é um site fictício gerado para fins de demonstração.
-        </p>
       </div>
     </footer>
   );
